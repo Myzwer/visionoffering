@@ -1,19 +1,18 @@
 <template>
   <div>
-<!--    <div class="text-left opacity-30 mb-8">
+    <div class="text-left opacity-30 mb-8">
 
       <h2
         class="text-blue font-bold text-4xl"
       >
-        $595,000
+        $94,500
       </h2>
       <p>
-        ✅ Goal 1 and 2: COMPLETED
+        ✅ Goal 1: COMPLETED
       </p>
     </div>
-    </div>-->
+    </div>
 
-  </div>
 </template>
 
 <script>
