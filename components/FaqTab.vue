@@ -13,7 +13,7 @@
 				<hr>
 				<div class="py-5">
 					<h5 class="uppercase font-bold text-xl">Why is each goal in its current sequential order? </h5>
-					<p>Our elders believe that our most significant opportunity to make more disciples is by investing in our outreach ministries first. Secondly, our Maryville location expansion is a significant long-term investment that will take further capital to produce its total result. Finally, we need to expand to adjust to the growing need for additional space at our Knoxville location. </p>
+					<p>We believe that our most significant opportunity to make more disciples is by investing in our outreach ministries first. Secondly, our Maryville location expansion is a significant long-term investment that will take further capital to produce its total result. Finally, we need to expand to adjust to the growing need for additional space at our Knoxville location. </p>
 				</div>
 
 				<hr>
@@ -48,7 +48,7 @@
 				<hr>
 				<div class="py-5">
 					<h5 class="uppercase font-bold text-xl">If one goal is partially met, what happens? </h5>
-					<p>Our elders will determine the best use of the resources based on prayer & our financial position
+					<p>We will determine the best use of the resources based on prayer & our financial position
 						as church. </p>
 				</div>
 
