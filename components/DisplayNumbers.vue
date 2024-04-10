@@ -1,31 +1,6 @@
 <template>
   <div class="text-left">
-    <div class="py-3 mb-5">
-      <h2
-        v-if="givingAmount !== undefined"
-        class="text-blue font-bold text-4xl"
-      >
-        {{
-          Number(givingAmount).toLocaleString('en-US', {
-            style: 'currency',
-            currency: 'USD',
-          })
-        }}
-      </h2>
-      <v-progress-circular v-else indeterminate :size="40" class="text-blue" />
-
-      <p>
-       Total for all 3 goals:
-        {{
-          Number(givingGoal).toLocaleString('en-US', {
-            style: 'currency',
-            currency: 'USD',
-          })
-        }}
-      </p>
-    </div>
-
-    <div class="mb-3">
+    <div class="mb-3 ">
       <h2 v-if="givers !== undefined" class="font-bold text-4xl">
         {{ givers }}
       </h2>
@@ -33,7 +8,10 @@
       <p>Givers</p>
     </div>
 
-
+	  <div class="py-3">
+		  <h2 class="font-bold text-4xl">{{daysRemaining}}</h2>
+		  <p>Days to Go</p>
+	  </div>
   </div>
 </template>
 
@@ -59,7 +37,7 @@ export default {
   computed: {
     daysRemaining() {
       const today = new Date();
-      const end = new Date("2022-11-21");
+      const end = new Date("2024-06-01");
       const millisecondsInDay = 1000*60*60*24;
       const diff = end.getTime() - today.getTime();
       return Math.ceil(diff / millisecondsInDay);

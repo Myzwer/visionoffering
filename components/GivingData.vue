@@ -1,6 +1,5 @@
 <template>
   <div>
-    <CompletedGoal />
 
     <!--    This is basically the worst thing ever but I am out of time. -->
     <div class="progress-bar">
@@ -16,7 +15,7 @@
     </div>
 
     <div class="text-left">
-      <div class="py-2">
+      <div class="py-2 pb-7">
         <h2
           v-if="currentGoalAmountGiven !== undefined"
           class="text-blue font-bold text-4xl"
@@ -53,7 +52,6 @@
     </div>
     <!--   End worst thing ever resume neat code. -->
 
-    <ProgressBar :giving-amount="givingAmount" :giving-goal="givingGoalTotal" />
     <DisplayNumbers
       :giving-amount="givingAmount"
       :giving-goal="givingGoalTotal"
@@ -64,19 +62,17 @@
 
 <script>
 import DisplayNumbers from '~/components/DisplayNumbers'
-import ProgressBar from '~/components/ProgressBar'
 
 export default {
   name: 'GivingData',
   components: {
     DisplayNumbers,
-    ProgressBar,
   },
   data() {
     return {
       givingAmount: undefined,
       givingGoalTotal: 1694500,
-      givingGoals: [94500, 600000, 1000000],
+      givingGoals: [94500, 1200000],
       numberOfGivers: undefined,
     }
   },
