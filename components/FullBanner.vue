@@ -21,18 +21,7 @@
               alt="icon"
               class="icon-width m-3"
             >
-            <span class="text-left"><strong>CURRENT: Goal #2 - $600,000</strong> <br />Expand Maryville Parking </span>
-          </div>
-        </div>
-
-        <div class="col-span-12 lg:col-span-4">
-          <div class="box">
-            <img
-              src="/images/icons/tools.png"
-              alt="icon"
-              class="icon-width m-3"
-            >
-            <span class="text-left"><strong>Goal #3: $1,000,000</strong> <br />Expand Knoxville Location</span>
+            <span class="text-left"><strong>CURRENT: Goal #2 - $1,200,000</strong> <br />Expand Maryville Parking </span>
           </div>
         </div>
       </div>
