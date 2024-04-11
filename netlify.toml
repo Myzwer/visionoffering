@@ -5,7 +5,6 @@
   command = "yarn generate"
   publish = "dist"
   functions = "functions"
-  node_version = "18"
 
 [functions]
   node_bundler = "esbuild"
