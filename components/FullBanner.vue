@@ -17,11 +17,11 @@
         <div class="col-span-12 lg:col-span-4">
           <div class="box">
             <img
-				src="/images/icons/cars.png"
+				src="/images/icons/counsel.png"
               alt="icon"
               class="icon-width m-3"
             >
-            <span class="text-left"><strong>CURRENT: Goal #2 - $1,200,000</strong> <br />Expand Maryville Parking </span>
+            <span class="text-left"><strong>CURRENT: Goal #2 - $1,200,000</strong> <br />Build Counseling Center </span>
           </div>
         </div>
       </div>

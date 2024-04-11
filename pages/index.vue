@@ -40,7 +40,6 @@
             <v-tabs-slider></v-tabs-slider>
             <v-tab key="Campaign">Campaign</v-tab>
             <v-tab key="FAQ">FAQ</v-tab>
-            <v-tab key="Updates">Updates</v-tab>
           </v-tabs>
 
 
@@ -50,9 +49,6 @@
             </v-tab-item>
             <v-tab-item key="FAQ">
               <FaqTab/>
-            </v-tab-item>
-            <v-tab-item key="Updates">
-              <UpdateTab/>
             </v-tab-item>
           </v-tabs-items>
         </div>
