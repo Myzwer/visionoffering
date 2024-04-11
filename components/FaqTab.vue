@@ -4,15 +4,6 @@
 		<div class="grid grid-cols-12 gap-4">
 			<div class="col-span-12">
 				<h3 class=" uppercase bold text-2xl pb-5">FAQ</h3>
-
-				<hr>
-				<div class="py-5">
-					<h5 class="uppercase font-bold text-xl">If we give $1,694,500, what will happen?</h5>
-					<p>Suppose the people of FC meet all three goals. In that case, we will (1) bless our local and
-						global outreach ministry partners, (2) have the funds prepared to purchase land and expand our
-						Maryville location and (3) begin phase 2 of our Knoxville location renovation.</p>
-				</div>
-
 				<hr>
 				<div class="py-5">
 					<h5 class="uppercase font-bold text-xl">WHEN DO WE CLOSE ON THE PROPERTY?</h5>
