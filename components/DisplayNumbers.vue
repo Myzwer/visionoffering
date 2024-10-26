@@ -8,10 +8,10 @@
       <p>Givers</p>
     </div>
 
-	  <div class="py-3">
+<!--	  <div class="py-3">
 		  <h2 class="font-bold text-4xl">{{daysRemaining}}</h2>
 		  <p>Days to Go</p>
-	  </div>
+	  </div>-->
   </div>
 </template>
 
