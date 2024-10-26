@@ -71,8 +71,8 @@ export default {
   data() {
     return {
       givingAmount: undefined,
-      givingGoalTotal: 1694500,
-      givingGoals: [94500, 1200000],
+      givingGoalTotal: 1200000,
+      givingGoals: [1200000],
       numberOfGivers: undefined,
     }
   },
