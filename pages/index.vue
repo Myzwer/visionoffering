@@ -38,7 +38,7 @@
             align-with-title
           >
             <v-tabs-slider></v-tabs-slider>
-            <v-tab key="Campaign">Campaign</v-tab>
+            <v-tab key="Campaign">Impact Lanes</v-tab>
             <v-tab key="FAQ">FAQ</v-tab>
           </v-tabs>
 
@@ -68,10 +68,10 @@ export default {
   },
   head() {
     return {
-      title: "Foothills Church Vision Offering 2023",
+      title: "Foothills Church Vision Offering 2024",
       meta:[
-        { hid: 'og-type', property: 'og:type', content: 'The Vision Offering 2023' },
-        { hid: 'og-desc', property: 'og:description', content: 'Together we can take our next step as a church by giving to the vision offering.' },
+        { hid: 'og-type', property: 'og:type', content: 'The Vision Offering 2024' },
+        { hid: 'og-desc', property: 'og:description', content: 'Reflect His light • Fuel the Vision • Impact the World.' },
         { hid: 'og-image', property: 'og:image',
           content: '/images/vo-main.jpg'
         },
