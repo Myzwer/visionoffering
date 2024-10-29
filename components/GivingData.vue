@@ -39,7 +39,7 @@
             All goals surpassed!
           </template>
           <template v-else>
-            Goal {{ currentGoalIndex + 1 }}:
+            Goal:
             {{
               Number(givingGoals[currentGoalIndex]).toLocaleString('en-US', {
                 style: 'currency',
@@ -71,8 +71,8 @@ export default {
   data() {
     return {
       givingAmount: undefined,
-      givingGoalTotal: 1200000,
-      givingGoals: [1200000],
+      givingGoalTotal: 800000,
+      givingGoals: [800000],
       numberOfGivers: undefined,
     }
   },
