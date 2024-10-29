@@ -5,25 +5,38 @@
 
 			<div class="col-span-12">
 				<img
-					src="~/static/images/campaign/drone.jpg"
+					src="~/static/images/campaign/jil.jpg"
 					alt="icon"
 					class="rounded-md shadow-2xl"
 				>
-				<h3 class=" uppercase bold text-2xl pb-5 pt-10">COUNSELING CENTER & PARKING</h3>
-				<p class="pb-5">We are so blessed with the new, exciting opportunity to purchase the land right across
-					the street from our Maryville location to serve as the home of our new Counseling Center and provide
-					us with around one hundred new parking spots.</p>
+				<h3 class="font-bold text-2xl pb-5 pt-10">Projects</h3>
+				<p class="pb-5">The project lane includes the brick-and-mortar projects that need to be done. For instance, even though the Counseling Center will be open, we still need to outfit the space with furniture and equipment and improve the parking lot. We estimate the cost to be $150,000.</p>
+				<p class="pb-5">We have other projects around our facility that also need improvement. By giving to the vision offering, you can help the church make these improvements and maintain the property God has blessed us with.</p>
 
-				<p class="pb-5">This has been a dream of ours and a goal that we have been praying for and asking God to
-					provide. Originally, the second goal of our vision offering was to raise $600,000 in order to have
-					what we believed to be the necessary funds to purchase land. But, with this new opportunity across
-					the street, we now know that the total cost will be around $1.2 million to secure the land,
-					transform the land into additional parking, and make the necessary renovations to turn the existing
-					building into a fitting home for counseling sessions to take place.</p>
+				<hr>
 
-				<p class="pb-5">This opportunity is truly an answer to prayer, but we need your help to make it happen.
-					We encourage you to join us in praying over our counseling ministry, this new opportunity, and for
-					how you can make a difference by making a financial gift to help fuel our vision.</p>
+				<h3 class="font-bold text-2xl pb-5 pt-10">Multiplication</h3>
+				<p class="pb-5">In 2020, we felt God's call to multiply our church and begin a new location in Knoxville. In the Fall of 2021, we launched our second location in Knoxville. We have seen the Lord work in an incredible way through Knoxville, and we are excited to see God continue to grow our church in city of Knoxville.
+				</p>
+				<p class="pb-5">When you give to the vision offering, you are helping Knoxville take the next step to renovate the children's space and help create a better environment for families to bring their children. Our Maryville Location has grown over the years because we have intentionally created spaces for kids that parents love.</p>
+
+				<hr>
+
+				<h3 class="font-bold text-2xl pb-5 pt-10">Local Outreach</h3>
+				<p class="pb-5">We want to be a church that makes an Impact outside the walls of our building and helps local organizations do incredible Kingdom work. We partner with various local organizations that you can find on our website. Organizations like the Pregnancy Resource Center, Orphan Care Ministries, and Sex Trafficking organizations. We encourage our people to help serve them physically, but we also want to continue to support these ministry partners financially. </p>
+
+				<hr>
+
+				<h3 class="font-bold text-2xl pb-5 pt-10">Global Outreach</h3>
+				<p class="pb-5">Finally, we want to bless and support our global outreach partners. We continue to give to partners like the Cooperative Program, and Vapor Ministries. Our full list of Global partners can be found
+					<a href="https://foothillschurch.com/global-outreach/">here</a>.</p>
+				<p class="pb-5">We also want to send more partners on short-term global trips. During spring break, we will send a group of students to Guatemala. For adults, we're planning a June trip to Guadalajara, Mexico. In August, we’ll be sending a team to Kenya, Africa. And in October, we plan to go back to Zambia, Africa.</p>
+				<p class="pb-5">When you give to the vision offering, you are not only providing resources to help our Global partners send missionaries around the world, but you will also be lowering the cost of our short-term trips so that more partners can afford to go.</p>
+
+				<hr>
+
+				<h3 class="font-bold text-2xl pb-5 pt-10">Your Impact</h3>
+				<p class="pb-5">When you give to the vision offering, you’re fuelling all four of these impact lanes, not just one. Our goal this year is to give over $800,000. The amount given will determine our ability to impact each of these lanes. So, please pray about how you can make an impact through our Vision Offering.</p>
 
 				<XLButton/>
 			</div>
