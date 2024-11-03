@@ -17,7 +17,7 @@
               alt="icon"
               class="icon-width m-3"
             >
-            <span class="text-left"><strong>FC Projects</strong></span>
+            <span class="text-left"><strong>Projects</strong></span>
           </div>
         </div>
 
@@ -28,7 +28,7 @@
               alt="icon"
               class="icon-width m-3"
             >
-            <span class="text-left"><strong>FC Multiplication</strong></span>
+            <span class="text-left"><strong>Multiplication</strong></span>
           </div>
         </div>
 

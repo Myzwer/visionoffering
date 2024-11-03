@@ -29,7 +29,7 @@
 
 				<h3 class="font-bold text-2xl pb-5 pt-10">Global Outreach</h3>
 				<p class="pb-5">Finally, we want to bless and support our global outreach partners. We continue to give to partners like the Cooperative Program, and Vapor Ministries. Our full list of Global partners can be found
-					<a href="https://foothillschurch.com/global-outreach/">here</a>.</p>
+					<a class = "underline text-blue" href="https://foothillschurch.com/global-outreach/">here</a>.</p>
 				<p class="pb-5">We also want to send more partners on short-term global trips. During spring break, we will send a group of students to Guatemala. For adults, we're planning a June trip to Guadalajara, Mexico. In August, we’ll be sending a team to Kenya, Africa. And in October, we plan to go back to Zambia, Africa.</p>
 				<p class="pb-5">When you give to the vision offering, you are not only providing resources to help our Global partners send missionaries around the world, but you will also be lowering the cost of our short-term trips so that more partners can afford to go.</p>
 
